@@ -1,0 +1,13 @@
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\Business.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\Business.pdb
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\Model.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\Repository.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\Datalayer.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\EntityFramework.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\Model.pdb
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\Repository.pdb
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\Datalayer.pdb
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\bin\Debug\EntityFramework.xml
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\obj\Debug\Business.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Business\obj\Debug\Business.pdb

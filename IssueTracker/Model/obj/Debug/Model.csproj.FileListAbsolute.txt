@@ -1,0 +1,4 @@
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Model\bin\Debug\Model.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Model\bin\Debug\Model.pdb
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Model\obj\Debug\Model.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Model\obj\Debug\Model.pdb

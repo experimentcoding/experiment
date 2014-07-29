@@ -1,0 +1,12 @@
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\Datalayer.dll.config
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\Datalayer.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\Datalayer.pdb
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\EntityFramework.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\EntityFramework.xml
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\obj\Debug\Datalayer.csprojResolveAssemblyReference.cache
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\obj\Debug\Datalayer.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\obj\Debug\Datalayer.pdb
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\Model.dll
+E:\Divyesh\Project\issuetracker\sourcecode\IssueTracker\Datalayer\bin\Debug\Model.pdb
